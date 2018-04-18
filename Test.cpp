@@ -1,4 +1,6 @@
+#inclue <iostream>
+
 void testfunction
 {
-printf("Fuck_You");
+std::cout << "Fuck_You" << std::endl;
 }
