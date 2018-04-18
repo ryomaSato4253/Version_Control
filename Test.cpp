@@ -1,4 +1,4 @@
 void testfunction
 {
-printf("test");
+printf("Fu");
 }
